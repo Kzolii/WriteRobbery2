@@ -1,2 +1,2 @@
 # WriteRobbery-project2
-This is the repository of project 2
+This is repository of the project 2
